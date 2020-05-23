@@ -22,6 +22,6 @@ $ ./handgesture_detrack
 
 GNU General Public License, version 3 (GPLv3).
 
-You can visit my personal website: [http://dennishnf.bitbucket.io](http://dennishnf.bitbucket.io)!.
+You can visit my personal website: [http://dennishnf.com](http://dennishnf.com)
 
 
