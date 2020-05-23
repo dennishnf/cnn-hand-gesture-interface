@@ -22,6 +22,8 @@ $ ./handgesture_detrack
 
 GNU General Public License, version 3 (GPLv3).
 
+## More info ##
+
 You can visit my personal website: [http://dennishnf.com](http://dennishnf.com)
 
 
