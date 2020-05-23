@@ -25,7 +25,6 @@ GNU General Public License, version 3 (GPLv3).
 ## About ##
 
 By: Dennis Núñez-Fernández
-
 Website: [http://dennishnf.com](http://dennishnf.com)
 
 
